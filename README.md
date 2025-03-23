@@ -1,1 +1,0 @@
-# My-CTF-WriteUp
