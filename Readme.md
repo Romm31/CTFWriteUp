@@ -1,6 +1,3 @@
-#Repo guehh
-
-
 Repo ini cuma tempat nyimpen write-up dari seorang noob yang masih belajar CTF. Gak jago, tapi ya dicoba.
 
 Isi Repo:
