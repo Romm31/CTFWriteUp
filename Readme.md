@@ -1,1 +1,1 @@
-# Write Up CTF 
+# CTF Write Up
