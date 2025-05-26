@@ -1,5 +1,7 @@
 # Blindspot - SASCTF 2025
 
+**FLAG:** `SAS{r05_4t7ack_s3e5_7hr0u6h_7h3_bl1nd5p0t}`
+
 **Category:** Cryptography
 **Challenge Author:** (If known, or N/A)
 **Source:** SASCTF 2025 (`tcp.sasc.tf:12610`)
@@ -43,11 +45,10 @@ Once `d` is known, signatures can be forged for arbitrary messages. The goal is 
 
 ## Solver Script (`solver.py`)
 
-A Python script named `solver.py` is provided in this repository to automate the exploitation process. Please refer to the script itself for the full implementation details.
+The exploit script, `solver.py`, is available in this repository. It automates the attack described above.
 
 ### Dependencies
 
 The solver script requires the `ecdsa` Python library:
-
 ```bash
 pip install ecdsa
