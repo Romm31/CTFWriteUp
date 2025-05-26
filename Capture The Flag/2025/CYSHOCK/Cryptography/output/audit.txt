@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu May 15 21:26:48 2025
+Invocation: foremost mynotes.png 
+Output directory: /home/rommel/CTFWriteUp/Capture The Flag/CYSHOCK/Cryptography/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: mynotes.png
+Start: Thu May 15 21:26:48 2025
+Length: 893 KB (914798 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00001785.zip 	      399 B 	     914400 	 
+1:	00000000.png 	     892 KB 	          0 	  (769 x 1024)
+Finish: Thu May 15 21:26:48 2025
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu May 15 21:26:48 2025
