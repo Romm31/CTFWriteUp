@@ -1,6 +1,6 @@
-#bigbabycode - SASCTF 2025
+# Bigbabycode - SASCTF 2025
 
-**FLAG:** 'SAS{y0u_d0nt_r3ally_n33d_S_perm_t0_d3c0d3_Mc_3l1ec3_w1th_H4mm1ng_c0d3s}'
+**FLAG:** `SAS{y0u_d0nt_r3ally_n33d_S_perm_t0_d3c0d3_Mc_3l1ec3_w1th_H4mm1ng_c0d3s}'
 
 **Category: Cryptography**
 --------------------------------------------------------------------------------
