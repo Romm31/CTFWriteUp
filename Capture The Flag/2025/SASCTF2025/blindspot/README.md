@@ -3,7 +3,6 @@
 **FLAG:** `SAS{r05_4t7ack_s3e5_7hr0u6h_7h3_bl1nd5p0t}`
 
 **Category:** Cryptography
-**Challenge Author:** (If known, or N/A)
 **Source:** SASCTF 2025 (`tcp.sasc.tf:12610`)
 
 ## Challenge Description
